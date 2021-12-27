@@ -1,7 +1,7 @@
 
 *THIS APP IS STILL IN DEVELOPMENT*
 
-Take-Over is a Full MERN stack web application using redux. 
+Take-Over is a Full MERN Stack web application using redux. 
 
 ## Technologies
 
