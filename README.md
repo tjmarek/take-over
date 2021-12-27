@@ -1,6 +1,6 @@
 ## Configuration
 
-Be sure you add your `MONGOURI` into `config/keys.js`.
+Be sure you connect to Mongodb & add your `MONGOURI` into `config/keys.js`.
 
 ```javascript
 module.exports = {
