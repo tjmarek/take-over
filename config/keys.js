@@ -1,4 +1,4 @@
 module.exports = {
-    mongoURI: "MONGODB ATLAS URI",
+    mongoURI: "MONGODB_atlas_URI",
     secretOrKey: "secret"
   };

@@ -4,7 +4,7 @@ Make sure to add 'config/keys.js', and be sure to also put your `MONGOURI` from 
 
 ```javascript
 module.exports = {
-  mongoURI: "YOUR_MONGO_URI_HERE",
+  mongoURI: "MONGODB_atlas_URI",
   secretOrKey: "secret"
 };
 ```
